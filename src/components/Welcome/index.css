@@ -37,3 +37,11 @@ button {
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .heading {
+    font-size: 40px;
+  }
+  .description {
+    font-size: 15px;
+  }
+}
